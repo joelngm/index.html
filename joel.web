@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Website Title</title>
+  <style>
+    /* CSS styles for your website */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-image: url("https://lh3.googleusercontent.com/pw/AIL4fc_Ti1ibWCAMv20L_WWDqNKcL-tuxQC_huBFoa4HQj2kEIC5uX_YB0tD79ezco3fIiYLSndizdOBw0iazNli4ChFlZDdfdt8nT5qjX8mtrS93VcQteJRKxbAZMNiQbFQ3ljgnZwL6kPgagc3HGgx-1cdo9sXgAhPA98mN-7WLcw7lqc4ECQ9j_HlRRjnrm8jlmBMlBwBgy5vOIySO5t7fQGKe6TXKy5jebD_sLrau7ZIamUXNI1jtdfu5j9AM2FK-4xxMw73Oeg0neCctkXiyUWOG-RyQfU-k3l-zII8pxAEbnr7z5nnHlQ37s99vzJfkjc_gxqkDW5R-7k7qnPjpD5rbfENEa0ddehq1dFQjN0TVaGuka5Ie6n57fFYLtIAqyc_T0CGlYAaodsgz20WkcNEDr3FKC_uK9vuAttQMWCD7vO3FvqNz144jNYkATjpkYmP-m3sN_DLSzY8fbnjU7ZuJNsNRyYzp4GHAWWdLRo7Z5pYnzVkV016Bsm4G8VuMEjzvHsy9jx7o_-kyeTpCZlTjKwxNTSKybn3enEZab_-5G9k28ohHjsJeiplM8KPPiOwiZ76I9Hs1FOY3qsdzGVUaJHbfvicU-tPIEzHsECdYnDZ7H1QaOmcXV_loHLwJZ2fb4YwbIQoMLrmvfwfRbtkJgupnFraWxNaIVsqgk7SSRFmbVuxu0xq1H0kshwHFFL-aYkXJt6vIjUAjKgd38MNmYlHTydz6Y_Fcs6E3wZs6wmA0bEHR8Bmo2y78OOX-HzHPsqwnxxGyO0hI0oJwF4ZlgXPmiVjNQq0lFyqLuy8_1tTGYreZh4O0N9xoOhP8Pey_5zAVhV5fDd5w7GxVhXrn5ktiBArBbgr4FLkzHSeSB-VnNVeCkoKNXGCAI184s1L3bPyeESXPstLvp2WylkchkWUeOemKKZ5TBqDC7EK95TP0d6jqW0QZXmI=w725-h725-s-no?authuser=0");
+      background-size: auto;
+      background-position: center;
+      
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #0f0101;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+    }
+    nav li {
+      float: left;
+    }
+    nav li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    nav li a:hover {
+      background-color: #111;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Welcome to Joel's web designing</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="https://wa.me/250730250487text=I%20want%20to%20contact%20you">Contact</a></li>
+      </ul>
+    </nav>
+    <main>
+      <section>
+        <h2>About Us</h2>
+        <p class="bold-text">"My name is Lyumugabe Joel;I live in Rwanda;i am a university student studying Business & information technology and i am here to help you.</p>
+      </section>
+      <section>
+        <h2>Our Services</h2>
+        <ul>
+          <li>web development</li>
+          <li>web designing</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Contact Us</h2>
+        <p>You can reach us by clicking the link below:</p>
+        <p><a href="https://wa.me/250730250487?text=I%20want%20to%20contact%20you">Contact us via WhatsApp</a></p>
+        <p><a href="mailto:lyumugabejoel@gmail.com">Contact via Email</a></p>
+        <p><a href="https://www.instagram.com/joel_ngmy/">Contact via Instagram</a></p>
+      </section>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 joel's web designing. All rights reserved.</p>
+    </footer>
+
+    
+  </div>
+</body>
+</html>
